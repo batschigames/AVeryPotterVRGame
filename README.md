@@ -1,1 +1,2 @@
 # AVeryPotterVRGame
+Explore this meticulously detailed recreation of the most popular witch and wizard school around. Enjoy navigating through the hidden rooms and fire network to dive into this wizarding world like never before! Step into the role of the newest witch or wizard student by learning and performing spells. Use voice recognition along with gesture recognition to cast powerful spells. Along with the castle-like school, explore the popular shopping alley in this wizarding world.
